@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Gupta</h1>
 <h3 align="center">Manual Penetration Tester | VAPT Analyst | Application Security</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ig6081&label=Profile%20views&color=0e75b6&style=flat" alt="ig6081" />
-</p>
 
 ---
 
