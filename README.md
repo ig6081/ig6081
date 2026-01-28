@@ -1,30 +1,63 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Gupta</h1>
-<h3 align="center">A passionate competitive programmer & frontend developer from India</h3>
+<h3 align="center">Manual Penetration Tester | VAPT Analyst | Application Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ig6081&label=Profile%20views&color=0e75b6&style=flat" alt="ig6081" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ig6081" alt="ig6081" /></a> </p>
-
-- 🌱 I’m currently learning **iOS Development**
-
-- 📫 How to reach me **indrajeetgupta34@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/indrajeet-gupta-a43452178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajeet-gupta-a43452178" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/indra_matrix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indra_matrix" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ig6081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ig6081" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/indrajeetgupta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="indrajeetgupta34" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/indrajeetgupta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="indrajeetgupta34" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/indrajeetgupta34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="indrajeetgupta34" height="30" width="40" /></a>
-<a href="https://discord.gg/Indra#0377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Indra#0377" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ig6081&label=Profile%20views&color=0e75b6&style=flat" alt="ig6081" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ig6081&show_icons=true&locale=en&layout=compact" alt="ig6081" /></p>
+### 🛡️ About Me
+- 🔍 Manual Penetration Tester working on **web application and API VAPT**
+- 🏢 Currently working at **Fiserv (Noida)** as a **Security Analyst / VAPT**
+- 🧪 Hands-on experience testing **100+ applications**  
+  *(70+ web apps, 30+ APIs / web services)*
+- 🛠️ Strong focus on **manual testing, business logic flaws, and real-world exploitation**
+- ⚙️ Built custom **Burp Suite extensions (Jython)** to scale security testing
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ig6081&show_icons=true&locale=en" alt="ig6081" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ig6081&" alt="ig6081" /></p>
+### 🔐 Security Expertise
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Web Application & API Security
+- Authentication & Authorization Testing
+- Session Management & Business Logic Testing
+- Manual exploitation of real-world vulnerabilities
+
+**Common Findings:**  
+IDOR, XSS, SQL Injection, SSRF, File Upload Issues, Broken Access Control
+
+---
+
+### 🧩 Featured Security Work
+- 🧪 **Burp Suite Extension (Jython)**  
+  Built a custom extension capable of generating thousands of HTTP request variations using **1000 concurrent threads**, achieving **~35% faster testing throughput** than traditional Burp Intruder and reducing manual triage effort by ~40%.
+
+- 🔐 **Session, Password & Cryptography Security Testing**  
+  Analyzed session ID entropy, password complexity enforcement, and cryptographic usage using custom scripts for encoding/decoding and encryption/decryption analysis.
+
+---
+
+### 🛠️ Tools & Technologies
+- **Security Tools:** Burp Suite, Postman, SoapUI, ffuf, dirsearch
+- **Languages:** C++, Python (scripting), JavaScript
+- **Web Tech:** HTML, CSS
+- **Others:** Git, Browser DevTools
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/ig6081" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/ig6081" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:indrajeetgupta34@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="40" />
+  </a>
+</p>
+
+
+---
